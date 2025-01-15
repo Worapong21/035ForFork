@@ -4,9 +4,13 @@
             <td width="23" rowspan="2">&nbsp;</td>
             <td height="119" colspan="2" bgcolor="#006600">
 
+                <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
+
+
                 <h1><center><font color="#FFFFFF">อติชาติอพาร์ตเมนต์</font></center></h1>
 
                 <h1><center><font color="#FFFFFF">ตุ๊ดซี่อพาร์ตเมนต์</font></center></h1>
+
 
                 <?php include "Date.php"; ?>
             </td>
@@ -20,7 +24,11 @@
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
+
+				<li><a href="contact.php">ติดต่อ55555</li>
+
 				<li><a href="contact.php">ติดต่อ</li>
+
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
